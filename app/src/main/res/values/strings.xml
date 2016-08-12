@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">메모 작성...</string>
+    <string-array name="design_patterns">
+        <item>Abstract Factory</item>
+        <item>Builder</item>
+        <item>Factory Method</item>
+        <item>Prototype</item>
+
+    </string-array>
+
+    <string-array name="design_patterns_description">
+        <item>Groups object factories that have a common theme.</item>
+        <item>Constructs complex objects by separating construction and representation.</item>
+        <item>Creates objects without specifying the exact class to create.</item>
+        <item>Creates objects by cloning an existing object.</item>
+
+    </string-array>
+</resources>
